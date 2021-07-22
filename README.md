@@ -1,0 +1,1 @@
+Studied the behaviour of Black Scholes Equation and understood its derivation. Predicted the option price using Black Scholes equation and plotted the behaviour for different real life stocks in Python Programming Language.
